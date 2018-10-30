@@ -1,0 +1,12 @@
+.content {
+    width: 60%;
+    height: 800px;
+    float: right;
+    overflow: auto;
+    max-height: 439px;
+}
+
+.friendList {
+    width: 40%;
+    float: left
+}
